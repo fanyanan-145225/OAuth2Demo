@@ -12,7 +12,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -45,6 +45,10 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="AuthCodeServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="authcode-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.spring2go.authcodeserver.AuthCodeServerApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
