@@ -16,4 +16,4 @@ create table client_user(
 insert into client_user
 (username, password)
 value
-('bobo', 'xyz');
+('niuniu', 'fyn');
